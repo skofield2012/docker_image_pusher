@@ -7,3 +7,4 @@ xhofe/alist:latest
 linuxserver/plex
 linuxserver/transmission
 baiyuetribe/baiduyunpan
+superng6/aria2
