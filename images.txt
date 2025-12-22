@@ -8,3 +8,4 @@ linuxserver/plex
 linuxserver/transmission
 baiyuetribe/baiduyunpan
 superng6/aria2
+jeeaaasustest/youtube-dl
